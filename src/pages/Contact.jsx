@@ -106,7 +106,7 @@ Message: ${formData.message}`;
                         {/* Google Map */}
                         <div className="rounded-xl overflow-hidden border border-gray-700 h-64 shadow-lg">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15662.663158023707!2d76.9443!3d11.0592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba858801c430ca3%3A0x6b1858a80396489!2sCoimbatore%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1710345678901!5m2!1sen!2sin"
+                                src="https://maps.google.com/maps?q=11.13725,76.97244&hl=en&z=14&output=embed"
                                 width="100%"
                                 height="100%"
                                 style={{ border: 0 }}
